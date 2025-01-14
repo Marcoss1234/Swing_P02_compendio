@@ -28,12 +28,12 @@ Explica cómo ejecutar la aplicación desde el ejecutable:
 
 ### Línea de comandos
 1. Abre una terminal.
-2. Ejecuta: `java -jar nombre_del_ejecutable.jar`.
+2. Ejecuta: `java -jar ejecutable.jar`.
 
 ## Construido con
 - Java
 - Swing para la interfaz gráfica
-- JDK 22.0.2 (o la versión que usaste)
+- JDK 21.0.2 
 
 ## Versionado
 Este proyecto ha sido gestionado mediante **Git** para el control de versiones. Se ha seguido una convención de commits donde cada mensaje describe de manera clara y concisa el cambio realizado en el código. Los cambios importantes como la implementación de funcionalidades y corrección de errores se documentan de manera detallada en los mensajes de commit, utilizando el siguiente formato:
